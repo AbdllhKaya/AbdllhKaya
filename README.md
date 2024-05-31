@@ -16,3 +16,6 @@ Hello everyone, <br>I graduated from the Law faculty. After graduation, I became
 [![](https://visitcount.itsvg.in/api?id=AbdllhKaya&icon=1&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/AbdllhKaya/AbdllhKaya/blob/output/github-contribution-grid-snake.gif)
