@@ -1,4 +1,4 @@
-
+# 💫 About Me:
 Hello everyone, <br>I graduated from the Law faculty. After graduation, I became interested in the software world and started to develop my skills in software. <br>In pursuit of this objective, I successfully completed the PatikaDev+ backend web development bootcamp. <br>I am very interested in Java technology, so I will continue learning about Java. <br>You will witness this process.<br>
 
 
