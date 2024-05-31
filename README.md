@@ -18,6 +18,4 @@ Hello everyone, <br>I graduated from the Law faculty. After graduation, I became
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-
-https://github.com/AbdllhKaya/AbdllhKaya/blob/output/github-contribution-grid-snake.gif
+![snake gif](https://github.com/AbdllhKaya/AbdllhKaya/blob/output/github-contribution-grid-snake.gif)
